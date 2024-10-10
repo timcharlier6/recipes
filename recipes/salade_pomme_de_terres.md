@@ -3,7 +3,6 @@ title: Salade de Pommes de Terre - Trois Façons
 ---
 
 ![salade_pomme_de_terres](./salade_pomme_de_terres.jpg)
-Voici la recette en Markdown avec des checklist pour les ingrédients.
 
 ## Recette : Salade de Pommes de Terre - Trois Façons
 
