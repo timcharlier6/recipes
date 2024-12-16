@@ -42,3 +42,22 @@
 - [Soupe aux champignons](https://timcharlier6.github.io/recipes/recipes/soupe-aux-champignons)
 - [Soupe courgettes](https://timcharlier6.github.io/recipes/recipes/soupe_courgettes)
 - [Taboulé](https://timcharlier6.github.io/recipes/recipes/taboule)
+
+## Hygiene
+
+### Assainissement
+
+Dans un spray:
+
+- 1 c.a.s. de javel pour 1/2 litre d'eau
+
+### Limage
+
+- Angle a 15 deg.
+- Dessus, dessous
+- Papier essui-tout pour enlever la poussiere du fusil.
+
+### Couteau
+
+- Asperger les couteaux des deux cotes de javel
+- Laisser secher dans le tiroir
