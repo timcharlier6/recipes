@@ -20,6 +20,7 @@
 ### Main Dishes
 
 - [Chili con carne](https://timcharlier6.github.io/recipes/recipes/chili_con_carne)
+- [Choucroute](https://timcharlier6.github.io/recipes/recipes/choucroute)
 - [Nouilles sautées](https://timcharlier6.github.io/recipes/recipes/nouilles_sautees)
 - [Pasta alla Norma](https://timcharlier6.github.io/recipes/recipes/pasta-alla-norma)
 - [Pasta alla Norcina](https://timcharlier6.github.io/recipes/recipes/pasta_alla_norcina)
