@@ -62,3 +62,5 @@ Dans un spray:
 
 - Asperger les couteaux des deux cotes de javel
 - Laisser secher dans le tiroir
+- [cornedBeefPasta.md](https://timcharlier6.github.io/recipes/recipes/cornedBeefPasta.md)
+- [cornedBeefPasta](https://timcharlier6.github.io/recipes/recipes/cornedBeefPasta)
